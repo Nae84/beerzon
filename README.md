@@ -17,7 +17,7 @@ La cantidad de litros que se puede comprar tiene un minimo de 1 litro y un maxim
 
 - Clonar proyecto
 ```bash
-  git clone https://github.com/NicoArroyo84/beerzon
+  git clone https://github.com/Nae84/beerzon
 ```
 
 - Accede al directorio del proyecto:
